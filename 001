@@ -1,2 +1,503 @@
-pegar aca la lista s
-kasbfdll
+#EXTM3U
+#EXTINF:-1, 13Max Televisión Ctes
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1, 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1, A24 
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1, A24 HD
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
+#EXTINF:-1, A&E
+http://45.4.3.75:8005/play/a09s
+#EXTINF:-1, A&E HD
+http://45.4.3.75:7700/play/a02h
+#EXTINF:-1, AMC HD
+http://45.4.3.75:7700/play/a015
+#EXTINF:-1, América TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1, América TV HD
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAraSI6iYatGOYpgq5auGVs/ts
+#EXTINF:-1, AnimaL Planet HD
+http://45.4.3.75:7700/play/a01g
+#EXTINF:-1, Animax
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
+#EXTINF:-1, AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1, AXN
+http://45.4.3.75:8005/play/a04f
+#EXTINF:-1, AXN HD
+http://45.4.3.75:7700/play/a02k
+#EXTINF:-1, Baby TV
+http://45.4.3.75:8005/play/a09d
+#EXTINF:-1, BabyFirst TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Baby Shark TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Beats Radio Multimedia
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1, Bellator MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, C5N
+https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
+#EXTINF:-1, C5N HD
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1, Canal 9 Link HD
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:-1, Canal 9 Link
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
+#EXTINF:-1, Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1, Canal 24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1, Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1, Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1, Caracol HD
+http://45.4.3.75:7700/play/a026
+#EXTINF:-1, Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1, Cartoon Network HD
+http://45.4.3.75:7700/play/a019
+#EXTINF:-1, Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1, Classics TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?tecnotv
+#EXTINF:-1, Chaco TV HD
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1, Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1, Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1, Cine.Ar
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1, Cinecanal
+http://45.4.3.75:8005/play/a06p
+#EXTINF:-1, Cinecanal HD
+http://45.4.3.75:7700/play/a014
+#EXTINF:-1, Cinemax
+http://45.4.3.75:8005/play/a07e
+#EXTINF:-1, Cinemax HD
+http://45.4.3.75:7700/play/a00e
+#EXTINF:-1, Cinerama TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1, Ciudad Mágica
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+#EXTINF:-1, Ciudad TV Rcia (Chaco)
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1, CM El Canal de la Música
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
+#EXTINF:-1, CNN en Español
+http://45.4.3.75:8005/play/a09i
+#EXTINF:-1, Comedy Central HD
+http://45.4.3.75:7700/play/a00f
+#EXTINF:-1, Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1, CPEtv
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:-1, Crónica TV
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+#EXTINF:-1, Crónica TV HD
+https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1, Dance TV
+https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
+#EXTINF:-1, Deporte PPV Box
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Deporte PPV MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, DeporTV HD
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1, Directv Sport HD
+http://ultrapremium.ch:8080/61968268/fp347yze/480
+#EXTINF:-1, Directv Sport 2 HD
+http://ultrapremium.ch:8080/61968268/fp347yze/473
+#EXTINF:-1, Discovery HD
+http://45.4.3.75:7700/play/a029
+#EXTINF:-1, Discovery Home&Health
+http://45.4.3.75:8005/play/a044
+#EXTINF:-1, Discovery Home&Health HD
+http://45.4.3.75:7700/play/a00m
+#EXTINF:-1, Discovery Investigation
+http://45.4.3.75:8005/play/a04h
+#EXTINF:-1, Discovery Investigation HD
+http://45.4.3.75:7700/play/a00g
+#EXTINF:-1, Discovery Kids HD
+http://45.4.3.75:7700/play/a00l
+#EXTINF:-1, Discovery Science
+http://45.4.3.75:8005/play/a077
+#EXTINF:-1, Discovery Theater HD
+http://45.4.3.75:7700/play/a00n
+#EXTINF:-1, Discovery World HD
+http://45.4.3.75:7700/play/a013
+#EXTINF:-1, Disney Channel
+http://45.4.3.75:8005/play/a08n
+#EXTINF:-1, Disney HD
+http://45.4.3.75:7700/play/a006
+#EXTINF:-1, Disney Junior
+http://45.4.3.75:8005/play/a042
+#EXTINF:-1, E! Entertainment
+http://45.4.3.75:8005/play/a07w
+#EXTINF:-1, E! Entertainment HD
+http://45.4.3.75:7700/play/a01o
+#EXTINF:-1, El Nueve HD
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1, El Trece HD
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1, El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, El Gourmet
+http://45.4.3.75:8005/play/a08q
+#EXTINF:-1, El Gourmet HD
+http://45.4.3.75:7700/play/a00i
+#EXTINF:-1, El Reino INFANTIL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Encuentro HD
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1, EstrellaTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, ENERGEEK Radio HD
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, ESPN HD
+http://45.4.3.75:7700/play/a02v
+#EXTINF:-1, ESPN HD Op.2
+http://ultrapremium.ch:8080/61968268/fp347yze/518
+#EXTINF:-1, ESPN Premium
+http://ultrapremium.ch:8080/61968268/fp347yze/16161
+#EXTINF:-1, ESPN Premium Op.2
+https://panel.dattalive.com/8026/8026/playlist.m3u8
+#EXTINF:-1, ESPN EXTRA HD
+http://177.53.153.21:8001/play/a03a/index.m3u8
+#EXTINF:-1, ESPN EXTRA HD Op.2
+http://ultrapremium.ch:8080/61968268/fp347yze/517
+#EXTINF:-1, ESPN 2
+http://45.4.3.75:8005/play/a084
+#EXTINF:-1, ESPN 2 HD
+http://45.4.3.75:7700/play/a00b
+#EXTINF:-1, ESPN 3
+http://45.4.3.75:8005/play/a04e
+#EXTINF:-1, ESPN 4
+http://45.4.3.75:8005/play/a08x
+#EXTINF:-1, eSports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1, Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1, Flash
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284191
+#EXTINF:-1, Fox Sport 1
+http://45.4.3.75:8005/play/a085
+#EXTINF:-1, Fox Sport 1 HD
+http://45.4.3.75:7700/play/a02a
+#EXTINF:-1, Fox Sport 2
+http://45.4.3.75:8005/play/a078
+#EXTINF:-1, Fox Sport 2 HD
+http://45.4.3.75:7700/play/a00r
+#EXTINF:-1, Fox Sport 3
+http://45.4.3.75:8005/play/a09r
+#EXTINF:-1, Fox Sport 3 HD
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1, Fox Sport Premium HD
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1, France 24 Español HD
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1, FX
+http://45.4.3.75:8005/play/a04i
+#EXTINF:-1, FX HD
+http://45.4.3.75:7700/play/a00v
+#EXTINF:-1, GenTV 
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1, Glitz*
+http://45.4.3.75:8005/play/a06c
+#EXTINF:-1, Global TV HD
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1, Golden
+http://45.4.3.75:8005/play/a07a
+#EXTINF:-1, Golden Edge
+http://45.4.3.75:8005/play/a06o
+#EXTINF:-1, Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1, Golf Chnnel
+http://45.4.3.75:8005/play/a04b
+#EXTINF:-1, HBO
+http://45.4.3.75:8005/play/a05c
+#EXTINF:-1, HBO HD
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:-1, HBO 2
+http://45.4.3.75:8005/play/a05d
+#EXTINF:-1, HBO 2 HD
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1, HBO Plus
+http://45.4.3.75:8005/play/a09z
+#EXTINF:-1, HBO Family
+http://45.4.3.75:8005/play/a09x
+#EXTINF:-1, HBO Family HD
+http://177.53.153.21:8001/play/a04g/index.m3u8
+#EXTINF:-1, HBO Pop
+http://45.4.3.75:8005/play/a05s
+#EXTINF:-1, HBO Pop HD
+http://177.53.153.21:8001/play/a01y/index.m3u8
+#EXTINF:-1, HBO Mundi
+http://45.4.3.75:8005/play/a094
+#EXTINF:-1, HBO SD
+http://45.4.3.75:8005/play/a089
+#EXTINF:-1, HBO Signature
+http://45.4.3.75:8005/play/a0a0
+#EXTINF:-1, HBO Xtreme
+http://45.4.3.75:8005/play/a09y
+#EXTINF:-1, HBO Xtreme HD
+http://177.53.153.21:8001/play/a04h/index.m3u8
+#EXTINF:-1, HGTV
+http://45.4.3.75:8005/play/a08o
+#EXTINF:-1, HTV
+http://45.4.3.75:8005/play/a08s
+#EXTINF:-1, History Channel
+http://45.4.3.75:8005/play/a043
+#EXTINF:-1, History Channel HD
+http://45.4.3.75:7700/play/a02g
+#EXTINF:-1, History 2
+http://45.4.3.75:8005/play/a07v
+#EXTINF:-1, History 2 HD
+http://45.4.3.75:7700/play/a02b
+#EXTINF:-1, I-SAT
+http://45.4.3.75:8005/play/a07c
+#EXTINF:-1, Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1, IP Noticias HD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1, Kanal D Drama HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1, La Nación+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1, LapachoTV Formosa
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:-1, Las Estrellas TV
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1, Las Estrellas TV HD
+http://45.4.3.75:7700/play/a027
+#EXTINF:-1, LatinoKids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1, Maxima TV
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+#EXTINF:-1, Más FM 95.9
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1, Megavisión TV
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1, Memorias TV
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1, Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1, MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1, MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1, MTV en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, MTV 00s HD
+http://45.4.3.75:7700/play/a00c
+#EXTINF:-1, Multivisión Federal
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Nat Geo HD
+http://45.4.3.75:7700/play/a012
+#EXTINF:-1, Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1, NeoX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1, Nexxo TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1, NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1, Nick Jr en español
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+#EXTINF:-1, Nick Teens
+http://45.4.3.75:8005/play/a052
+#EXTINF:-1, Nickelodeon
+http://45.4.3.75:8005/play/a075
+#EXTINF:-1, NG Federal Chaco
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1, Onda TV
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:-1, Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+#EXTINF:-1, Origen TV
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+#EXTINF:-1, PakaPaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1, PlanetaTV Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1, Play Television
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1, Paramount Channel
+http://45.4.3.75:8005/play/a07d
+#EXTINF:-1, Paramount HD
+http://45.4.3.75:7700/play/a01a
+#EXTINF:-1, Paramount+ 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Pasiones HD
+http://45.4.3.75:7700/play/a005
+#EXTINF:-1, POWER FM PINAMAR 100.3 FM
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+#EXTINF:-1, Quatro TV
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+#EXTINF:-1, RetroTV Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1, RT en Español
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1, SCI-FY HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, SEO TV HD
+https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:-1, SEO TV Kids HD
+https://live.seo.tv.bo/live/2SEO.m3u8
+#EXTINF:-1, SEO TV Novelas HD
+https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:-1, SEO TV Peliculas HD
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1, SoliveTV
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1, Sony
+http://45.4.3.75:8005/play/a086
+#EXTINF:-1, Sony HD
+http://45.4.3.75:7700/play/a02i
+#EXTINF:-1, Sony Movies
+http://45.4.3.75:8005/play/a05l
+#EXTINF:-1, Space
+http://45.4.3.75:8005/play/a092
+#EXTINF:-1, Space HD
+http://45.4.3.75:7700/play/a02l
+#EXTINF:-1, Star Channel 1
+http://45.4.3.75:8005/play/a05b
+#EXTINF:-1, Star Channel 1 HD
+http://45.4.3.75:7700/play/a023
+#EXTINF:-1, Star Channel 2
+http://45.4.3.75:8005/play/a06n
+#EXTINF:-1, Star Channel 2 HD
+http://45.4.3.75:7700/play/a02s
+#EXTINF:-1, Starz Cinema HD
+http://ultrapremium.ch:8080/61968268/fp347yze/664
+#EXTINF:-1, Studio Universal
+http://45.4.3.75:8005/play/a091
+#EXTINF:-1, Studio Universal HD
+http://45.4.3.75:7700/play/a01b
+#EXTINF:-1, Super Classics TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1, SyFy
+http://45.4.3.75:8005/play/a088
+#EXTINF:-1, TCM
+http://45.4.3.75:8005/play/a07b
+#EXTINF:-1, TechScience 365
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1, Telecentro
+http://51.81.93.239:8084/hls/telecentro.m3u8
+#EXTINF:-1, Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1, Telefe Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Telefe Córdoba HD
+https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:-1, Telefe Salta HD
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:-1, TeleMax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1, TeleMix
+https://panel.dattalive.com/8068/8068/playlist.m3u8
+#EXTINF:-1, Tele Estrella
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
+#EXTINF:-1, TeleMundo Internacional
+http://45.4.3.75:8005/play/a055
+#EXTINF:-1, TeleMundo Novelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, TeleRecreativa
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:-1, Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1, TLC
+http://45.4.3.75:8005/play/a09f
+#EXTINF:-1, TNT
+http://45.4.3.75:8005/play/a09u
+#EXTINF:-1, TNT HD
+http://45.4.3.75:7700/play/a008
+#EXTINF:-1, TNT Novelas
+http://45.4.3.75:8005/play/a080
+#EXTINF:-1, TNT Novelas HD
+http://45.4.3.75:7700/play/a01z
+#EXTINF:-1, TNT Series
+http://45.4.3.75:8005/play/a09v
+#EXTINF:-1, TNT Series HD
+http://45.4.3.75:7700/play/a00u
+#EXTINF:-1, TNT Sports
+https://panel.dattalive.com/8056/8056/playlist.m3u8
+#EXTINF:-1, TNT Sports HD
+http://ultrapremium.ch:8080/61968268/fp347yze/459
+#EXTINF:-1, TNT Sports HD Op2
+http://ultrapremium.ch:8080/61968268/fp347yze/460
+#EXTINF:-1, TNT Sports 2
+http://45.4.3.75:8005/play/a08w
+#EXTINF:-1, TNT Sports 2 HD
+http://45.4.3.75:7700/play/a02m
+#EXTINF:-1, TN Todo Noticias
+https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1, TN Todo Noticias HD
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1, True TV
+http://45.4.3.75:8005/play/a09t
+#EXTINF:-1, True TV HD
+http://45.4.3.75:7700/play/a00h
+#EXTINF:-1, TyC Sports HD
+http://45.4.3.75:7700/play/a01u
+#EXTINF:-1, TyC Sports HD Op.2
+http://ultrapremium.ch:8080/61968268/fp347yze/554
+#EXTINF:-1, TyC Sports Play_1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1, TyC Sports Play_2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1, TyC Sports Play_3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1, TV Pública HD
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1, TVE
+http://45.4.3.75:8005/play/a049
+#EXTINF:-1, Universal
+http://45.4.3.75:8005/play/a04g
+#EXTINF:-1, Universal HD
+http://45.4.3.75:7700/play/a00p
+#EXTINF:-1, Universal Cinema HD
+http://177.53.153.21:8001/play/a0aw/index.m3u8
+#EXTINF:-1, Universal Crime HD
+http://177.53.153.21:8001/play/a09g/index.m3u8
+#EXTINF:-1, Univisión
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1, Variety TV
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Vevo '70s & '80s
+https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
+#EXTINF:-1, Vevo '90s & '00s
+https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
+#EXTINF:-1, Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:-1, Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:-1, Warner Channel
+http://45.4.3.75:8005/play/a05a
+#EXTINF:-1, Warner Channel HD
+http://177.53.153.21:8001/play/a08l/index.m3u8
+#EXTINF:-1, Win Sports HD
+http://45.4.3.75:7700/play/a02p
+#EXTINF:-1, Win Sports+
+http://45.4.3.75:8005/play/a06m
+#EXTINF:-1, Win Sports+ HD
+http://45.4.3.75:7700/play/a01f
+#EXTINF:-1, Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1, Xtrema Cine Acción
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1, Xtrema Cine Comedia
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1, Xtrema Cine Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1, Xtrema Cine RetroInfantil
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1, XTV
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
