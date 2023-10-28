@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1, 13Max Televisión Ctes
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, 5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, A24 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1, A24 HD
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 #EXTINF:-1, A&E
-http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2092573
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/208
 #EXTINF:-1, A&E HD
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1, AMC
-http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2092602
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4331
 #EXTINF:-1, AMC HD
-http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/10547
+http://sudaka.link:25461/exequiel/exequiel/19180
 #EXTINF:-1, América TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1, América TV HD
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAraSI6iYatGOYpgq5auGVs/ts
+http://sudaka.link:25461/exequiel/exequiel/15336
 #EXTINF:-1, AnimaL Planet
-http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2092565
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/43
 #EXTINF:-1, AnimaL Planet HD
-http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/10408
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/211
 #EXTINF:-1, AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Argentinísima Satelital
@@ -30,7 +30,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1, AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
 #EXTINF:-1, AXN HD
-http://181.78.105.146:2000/play/a05y/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/210
 #EXTINF:-1, Baby TV
 http://190.61.46.126:8000/play/a033/index.m3u8
 #EXTINF:-1, BabyFirst TV
@@ -44,7 +44,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1, C5N
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 #EXTINF:-1, C5N HD
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://sudaka.link:25461/exequiel/exequiel/15351
 #EXTINF:-1, Canal 9 Link HD
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1, Canal 9 Link
@@ -69,16 +69,16 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?tecnotv
 #EXTINF:-1, Chaco TV HD
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1, Chaco TV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1, Chaco TIV 
+https://inliveserver.com:1936/14044/14044/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1, Cine.Ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1, Cinecanal
-http://181.78.21.60:16123/play/ch10
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/27
 #EXTINF:-1, Cinecanal HD
-http://181.78.21.60:16123/play/ch10
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/217
 #EXTINF:-1, Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1, Cinemax HD
@@ -89,9 +89,7 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 #EXTINF:-1, Ciudad TV Rcia (Chaco)
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1, CM El Canal de la Música
-http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
-#EXTINF:-1, CNN en Español
+EXTINF:-1, CNN en Español
 http://190.61.46.126:8000/play/a037/index.m3u8
 #EXTINF:-1, Comedy Central HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -126,7 +124,7 @@ http://190.61.46.126:8000/play/a017/index.m3u8
 #EXTINF:-1, Discovery World HD
 http://190.61.46.126:8000/play/a01j/index.m3u8
 #EXTINF:-1, Disney Channel
-http://45.4.3.75:8005/play/a08n
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/14
 #EXTINF:-1, Disney HD
 http://190.61.46.126:8000/play/a00w/index.m3u8
 #EXTINF:-1, Disney Junior
@@ -134,7 +132,7 @@ http://190.61.46.126:8000/play/a00c/index.m3u8
 #EXTINF:-1, E! Entertainment HD
 http://190.61.46.126:8000/play/a03x/index.m3u8
 #EXTINF:-1, El Nueve HD
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+http://sudaka.link:25461/exequiel/exequiel/15333
 #EXTINF:-1, El Trece HD
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, El Trece
@@ -152,7 +150,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac7
 #EXTINF:-1, ENERGEEK Radio HD
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, ESPN HD
-http://190.102.139.244:8900/play/a0t6/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/19
 #EXTINF:-1, ESPN HD Op.2
 http://181.226.236.191:8000/play/a07q/index.m3u8
 #EXTINF:-1, ESPN Premium
@@ -163,6 +161,8 @@ https://panel.dattalive.com/8110/8110/playlist.m3u8
 http://177.53.153.21:8001/play/a03a/index.m3u8
 #EXTINF:-1, ESPN EXTRA HD Op.2
 http://190.61.46.126:8000/play/a01m/index.m3u8
+#EXTINF:-1, ESPN 2 
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/227
 #EXTINF:-1, ESPN 2 HD
 http://190.61.46.126:8000/play/a00s/index.m3u8
 #EXTINF:-1, ESPN 3 HD
@@ -188,37 +188,39 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1, France 24 Español HD
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1, FX HD
-http://190.61.46.126:8000/play/a01f/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/25
 #EXTINF:-1, GenTV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1, Glitz*
-http://45.4.3.75:8005/play/a06c
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4278
 #EXTINF:-1, Global TV HD
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1, Golden
 http://190.61.46.126:8000/play/a040/index.m3u8
 #EXTINF:-1, Golden Edge
-http://181.78.21.60:16123/play/ch47
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/238
 #EXTINF:-1, Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1, Golf Channel
-http://170.254.18.108:80/GOLF/index.m3u8
+http://sudaka.link:25461/exequiel/exequiel/15674
 #EXTINF:-1, HBO
 http://190.61.46.126:8000/play/a01n/index.m3u8
 #EXTINF:-1, HBO HD
-http://177.53.153.21:8001/play/a03b/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/173
 #EXTINF:-1, HBO 2
 http://190.61.46.126:8000/play/a01t/index.m3u8
 #EXTINF:-1, HBO 2 HD
-http://177.53.153.21:8001/play/a03i/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/176
 #EXTINF:-1, HBO Plus
 http://190.61.46.126:8000/play/a03f/index.m3u8
+#EXTINF:-1, HBO Plus HD
+http://sudaka.link:25461/exequiel/exequiel/15765
 #EXTINF:-1, HBO Family
 http://190.61.46.126:8000/play/a03d/index.m3u8
 #EXTINF:-1, HBO Mundi
-http://170.254.18.108:80/GOLF/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/174
 #EXTINF:-1, HBO Family HD
-http://177.53.153.21:8001/play/a04g/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4181
 #EXTINF:-1, HBO Pop
 http://190.102.139.243:8900/play/a0sz/index.m3u8
 #EXTINF:-1, HBO Pop HD
@@ -270,7 +272,7 @@ https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1, MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1, MTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/50
 #EXTINF:-1, MTV en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, MTV 00s HD
@@ -294,7 +296,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1, Nick Teens
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, Nickelodeon
-http://45.4.3.75:8005/play/a075
+http://sudaka.link:25461/exequiel/exequiel/17181
 #EXTINF:-1, NG Federal Chaco
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1, Onda TV
@@ -304,13 +306,13 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF:-1, Origen TV
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1, PakaPaka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1, Play Television
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1, Paramount Channel
-http://45.4.3.75:8005/play/a07d
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/248
 #EXTINF:-1, Paramount HD
 http://190.61.46.126:8000/play/a01q/index.m3u8
 #EXTINF:-1, Paramount+ 
@@ -326,9 +328,9 @@ https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1, RetroTV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1, RT en Español
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:-1, SCi-Fi HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, SCi-Fy HD
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/189
 #EXTINF:-1, SEO TV HD
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1, SEO TV Kids HD
@@ -350,13 +352,13 @@ http://190.122.186.88:8000/play/a0ev/index.m3u8
 #EXTINF:-1, Space HD
 http://190.122.186.88:8000/play/a0jj/index.m3u8
 #EXTINF:-1, Star Channel 1
-http://45.4.3.75:8005/play/a05b
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/31
 #EXTINF:-1, Star Channel 1 HD
 http://190.61.46.126:8000/play/a00t/index.m3u8
 #EXTINF:-1, Star Channel 2
 http://190.122.186.88:8000/play/a0iu/index.m3u8
 #EXTINF:-1, Star Channel 2 HD
-http://45.4.3.75:7700/play/a02s
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/31
 #EXTINF:-1, Starz Cinema HD
 http://ultrapremium.ch:8080/61968268/fp347yze/664
 #EXTINF:-1, Studio Universal
@@ -366,7 +368,7 @@ http://190.122.186.88:8000/play/a0fh/index.m3u8
 #EXTINF:-1, Super Classics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1, SyFy
-http://45.4.3.75:8005/play/a088
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/188
 #EXTINF:-1, TCM
 http://190.102.139.244:8900/play/a0kj/index.m3u8
 #EXTINF:-1, TechScience 365
@@ -383,8 +385,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0160
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:-1, TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1, TeleMix
-https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1, Tele Estrella
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1, TeleMundo Internacional
@@ -393,16 +393,18 @@ http://190.61.46.126:8000/play/a008/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, TeleRecreativa
 https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:-1, Telecreativa HD
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1, TLC
 http://190.61.46.126:8000/play/a035/index.m3u8
+#EXTINF:-1, TL Novelas
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/194
 #EXTINF:-1, TNT
-http://190.122.186.88:8000/play/a0f4/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/261
 #EXTINF:-1, TNT HD
 http://190.61.46.126:8000/play/a00x/index.m3u8
-#EXTINF:-1, TNT Novelas
-http://45.4.3.75:8005/play/a080
 #EXTINF:-1, TNT Novelas HD
 http://190.61.46.126:8000/play/a03h/index.m3u8
 #EXTINF:-1, TNT Series
@@ -414,11 +416,11 @@ https://panel.dattalive.com/8056/8056/playlist.m3u8
 #EXTINF:-1, TNT Sports HD
 https://panel.dattalive.com/8194/8194/playlist.m3u8
 #EXTINF:-1, TNT Sports HD Op2
-http://ultrapremium.ch:8080/61968268/fp347yze/460
+http://sudaka.link:25461/exequiel/exequiel/15076
 #EXTINF:-1, TNT Sports 2
 http://190.102.139.244:8900/play/a0sx/index.m3u8
 #EXTINF:-1, TNT Sports 2 HD
-http://45.4.3.75:7700/play/a02m
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/1
 #EXTINF:-1, TN Todo Noticias
 https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1, TN Todo Noticias HD
@@ -427,10 +429,12 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 http://190.122.186.88:8000/play/a0es/index.m3u8
 #EXTINF:-1, True TV HD
 http://190.102.139.244:8900/play/a0n8/index.m3u8
-#EXTINF:-1, TyC Sports HD
+#EXTINF:-1, TyC Sports 
 http://190.102.139.244:8900/play/a0wf/index.m3u8
-#EXTINF:-1, TyC Sports HD Op.2
+#EXTINF:-1, TyC Sports HD
 http://190.102.139.244:8900/play/a0op/index.m3u8
+#EXTINF:-1, TyC Sports Internacional
+http://sudaka.link:25461/exequiel/exequiel/15124
 #EXTINF:-1, TyC Sports Play_1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1, TyC Sports Play_2
@@ -444,7 +448,7 @@ http://190.102.139.244:8900/play/a119/index.m3u8
 #EXTINF:-1, Universal
 http://45.4.3.75:8005/play/a04g
 #EXTINF:-1, Universal HD
-http://190.61.46.126:8000/play/a019/index.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/266
 #EXTINF:-1, Universal Cinema HD
 http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1, Universal Crime HD
